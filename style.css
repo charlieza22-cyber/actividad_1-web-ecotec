@@ -8,6 +8,7 @@ body {
     max-width: 800px;
     line-height: 1.6;
     padding: 0 20px;
+    text-align: justify;       /* <--- NUEVA LÍNEA: Alineación profesional */
 }
 
 header {
